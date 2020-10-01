@@ -709,8 +709,8 @@ _________                         _     _
  \033[1;32;40mNot responsible for any illegal
  \033[1;32;40musage of this tool.\033[0;40m
 
- \033[1;30;40mAuthor   \033[1;40m: \033[1;33;40mICQ:https://icq.im/greatzcode
- \033[1;30;40mLink     \033[1;40m: \033[1;33;40mhttps://github.com/boters/Cannabis/
+ \033[1;30;40mAuthor   \033[1;40m: \033[1;33;40mICQ:https://icq.im/Anxie.ty
+ \033[1;30;40mLink     \033[1;40m: \033[1;33;40mhttps://github.com/SalmanRai
  \033[1;30;40mVersion  \033[1;40m: \033[1;33;40m.env Botnet
 """
     print x
